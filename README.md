@@ -1,4 +1,5 @@
-#### I'm mostly Python Developer
+#### Hello! 🙋🏻‍♂️
+### I'm Kirill and i'm Python Developer (and more)
 
 <h3>TECH HIGHLIGHTS</h3>
 <p float="left">
