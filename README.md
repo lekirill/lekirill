@@ -15,7 +15,7 @@
     <img src="https://github.com/lekirill/lekirill/blob/main/icons/docker/docker-original.svg" width="40px">&emsp;
     <img src="https://github.com/lekirill/lekirill/blob/main/icons/git/git-original.svg" width="40px">&emsp;
     <img src="https://github.com/lekirill/lekirill/blob/main/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40px">&emsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" width="40px">&emsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/160px-PyCharm_Icon.svg.png" width="40px">&emsp;
     <img src="https://github.com/lekirill/lekirill/blob/main/icons/postgresql/postgresql-original.svg" width="40px">&emsp;
     <img src="https://github.com/lekirill/lekirill/blob/main/icons/nginx/nginx-original.svg" width="40px">&nbsp;
 </p>
